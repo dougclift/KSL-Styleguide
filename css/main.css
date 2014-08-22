@@ -1,0 +1,14 @@
+.center {
+  padding-left: 25px;
+}
+
+.thumbnail .caption {
+  margin-top: -20px;
+  padding: 9px;
+  color: #333;
+}
+
+.tighterline {
+  margin-top: -8px;
+  line-height: 1;
+}
