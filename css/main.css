@@ -1,5 +1,6 @@
-.center {
-  padding-left: 25px;
+.center img {
+  display: block;
+  margin: 0 auto;
 }
 
 .thumbnail .caption {
